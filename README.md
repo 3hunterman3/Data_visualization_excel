@@ -13,7 +13,7 @@ Outcomes Based on Launch Date:
 - This shows how we can filter the categories in this data set and the years they were made to see if the months impact the projects in any way. ![Outcomes Based on Launch Date](/Launch_date_outcome.png)
 
 Theater Outcomes by Launch Date: 
-- This allows us to see the data for theater and what month we should create a company.![Theater Outcomes by Launch Date](/Theater_outcomes_date.png)
+- This allows us to see the data for theater and what month we should create a company.![Theater Outcomes by Launch Date](/Theater_outcomes.png)
 
 Outcomes Based on Goals: 
 - Using conditions that I have set I created various percentages that calculated whether certain conditions create higher successful results.![Outcomes Based on Goals](/outcomes_based_on_goals.png)
