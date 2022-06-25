@@ -8,8 +8,7 @@ Analysis and Challenges:
 
 Category statistics: 
   This was utilized to see the outcomes of the projects based on their success, failure, canceled, or live. We can also filter this data with the countries it worked in.
-https://user-images.githubusercontent.com/105021265/174667184-8699c235-caa1-4a1d-9f5d-a0389afd5770.png">
-
+ ![Category Statistics](/Category_statistics.png)
 Outcomes Based on Launch Date: 
   This shows how we can filter the categories in this data set and the years they were made to see if the months impact the projects in any way. 
 "https://user-images.githubusercontent.com/105021265/174668120-b7731a0c-be8d-423f-85c4-0e5f85f42c41.png">
