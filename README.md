@@ -1,32 +1,32 @@
 # Challenge_1
 
 Overview of project: 
-  The goal of this was to be able to utalize various tools in excel to analyse data in this file. Using this data I needed to create pivot tables and pivot charts for easier visual understanding of the information given. Using this file I needed to demonstrate skills in using excels VBA program and using excels charts to allow the viewer to understand the data points from a glance. 
+ - The goal of this was to be able to utalize various tools in excel to analyse data in this file. Using this data I needed to create pivot tables and pivot charts for easier visual understanding of the information given. Using this file I needed to demonstrate skills in using excels VBA program and using excels charts to allow the viewer to understand the data points from a glance. 
 
 Analysis and Challenges: 
-  The way I performed analysis on this data set was by seperating data points I found needed more clarification and data points that I thought needed to be looked more deeply into. When facing challenges in formating and using the correct code to get the results I wanted I went onto google and looked into the formating of the code and for the physical formating I watched youtube videos. I created new sheets on the data points I wanted to link together and the sheets I created were:
+- The way I performed analysis on this data set was by seperating data points I found needed more clarification and data points that I thought needed to be looked more deeply into. When facing challenges in formating and using the correct code to get the results I wanted I went onto google and looked into the formating of the code and for the physical formating I watched youtube videos. I created new sheets on the data points I wanted to link together and the sheets I created were:
 
 Category statistics: 
-  This was utilized to see the outcomes of the projects based on their success, failure, canceled, or live. We can also filter this data with the countries it worked in.
+- This was utilized to see the outcomes of the projects based on their success, failure, canceled, or live. We can also filter this data with the countries it worked in.
  ![Category Statistics](/Category_statistics.png)
 Outcomes Based on Launch Date: 
-  This shows how we can filter the categories in this data set and the years they were made to see if the months impact the projects in any way. 
+- This shows how we can filter the categories in this data set and the years they were made to see if the months impact the projects in any way. 
  ![Outcomes Based on Launch Date](/Outcomes_based_on_launch_date.png)
 
 Theater Outcomes by Launch Date: 
-  This allows us to see the data for theater and what month we should create a company.
+- This allows us to see the data for theater and what month we should create a company.
  ![Theater Outcomes by Launch Date](/Theater_outcomes_by_launch_date.png)
 
 Outcomes Based on Goals: 
-  Using conditions that I have set I created various percentages that calculated whether certain conditions create higher successful results.
+- Using conditions that I have set I created various percentages that calculated whether certain conditions create higher successful results.
  ![Outcomes Based on Goals](/outcomes_based_on_goals.png)
 
 Edinburgh Research: 
-  This shows how we can extract certain parts of our data using the edinburgh method on excel
+- This shows how we can extract certain parts of our data using the edinburgh method on excel
  ![Edinburgh Research](/edinburgh_research.png)
 
 Subcategory Statistics: 
-  This shows the results of the subcategories in our data set and shows whether it was successful or not.
+- This shows the results of the subcategories in our data set and shows whether it was successful or not.
  ![Subcategory Statistics](/subcategory_statistics.png)
 
 What are two conclusions you can draw about the Theater Outcomes by Launch Date?
