@@ -3,6 +3,9 @@
 Overview of project: 
  - The goal of this was to be able to utalize various tools in excel to analyse data in this file. Using this data I needed to create pivot tables and pivot charts for easier visual understanding of the information given. Using this file I needed to demonstrate skills in using excels VBA program and using excels charts to allow the viewer to understand the data points from a glance. 
 
+Purpose:
+- The purpose of this was to be able to take a large amount of data and use various pivot tables and pivot charts to make the data easier to understand. Another purpose of this was to be able to analyse and see which idea would be best to create a company with from the given information. The idea was also to be able to reduce information we dont need for the varying purposes we needed to analyse. I utilized a handfull of the data and anyalysed depending on possible correlations. In the end I was able to get the data I was supposed to get and was able to see correclations between the graphs I made with other given data. 
+
 Analysis and Challenges: 
 - The way I performed analysis on this data set was by seperating data points I found needed more clarification and data points that I thought needed to be looked more deeply into. When facing challenges in formating and using the correct code to get the results I wanted I went onto google and looked into the formating of the code and for the physical formating I watched youtube videos. I created new sheets on the data points I wanted to link together and the sheets I created were:
 
