@@ -24,7 +24,7 @@ Outcomes Based on Goals:
 
 Edinburgh Research: 
   This shows how we can extract certain parts of our data using the edinburgh method on excel
-"https://user-images.githubusercontent.com/105021265/174672117-00477362-7efc-4914-a7b6-d3fa58164c40.png">
+!["https://user-images.githubusercontent.com/105021265/174672117-00477362-7efc-4914-a7b6-d3fa58164c40.png">]
 
 Subcategory Statistics: 
   This shows the results of the subcategories in our data set and shows whether it was successful or not.
