@@ -7,7 +7,7 @@ Analysis and Challenges:
 - The way I performed analysis on this data set was by seperating data points I found needed more clarification and data points that I thought needed to be looked more deeply into. When facing challenges in formating and using the correct code to get the results I wanted I went onto google and looked into the formating of the code and for the physical formating I watched youtube videos. I created new sheets on the data points I wanted to link together and the sheets I created were:
 
 Category statistics: 
-- This was utilized to see the outcomes of the projects based on their success, failure, canceled, or live. We can also filter this data with the countries it worked in.![Category Statistics](/Category_statistics.png)
+- This was utilized to see the outcomes of the projects based on their success, failure, canceled, or live. We can also filter this data with the countries it worked in.![screenshots](/Category_statistics.png)
 
 Outcomes Based on Launch Date: 
 - This shows how we can filter the categories in this data set and the years they were made to see if the months impact the projects in any way. 
