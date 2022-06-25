@@ -11,23 +11,23 @@ Category statistics:
  ![Category Statistics](/Category_statistics.png)
 Outcomes Based on Launch Date: 
   This shows how we can filter the categories in this data set and the years they were made to see if the months impact the projects in any way. 
-"https://user-images.githubusercontent.com/105021265/174668120-b7731a0c-be8d-423f-85c4-0e5f85f42c41.png">
+ ![Outcomes Based on Launch Date](/Outcomes_based_on_launch_date.png)
 
 Theater Outcomes by Launch Date: 
   This allows us to see the data for theater and what month we should create a company.
-"https://user-images.githubusercontent.com/105021265/174668677-644350ac-6b88-45c4-9919-00bad46b84b1.png">
+ ![Theater Outcomes by Launch Date](/Theater_outcomes_by_launch_date.png)
 
 Outcomes Based on Goals: 
   Using conditions that I have set I created various percentages that calculated whether certain conditions create higher successful results.
-"https://user-images.githubusercontent.com/105021265/174671988-9ab81830-1cff-4f91-b471-6da7c7c7d69e.png">
+ ![Outcomes Based on Goals](/outcomes_based_on_goals.png)
 
 Edinburgh Research: 
   This shows how we can extract certain parts of our data using the edinburgh method on excel
-!["https://user-images.githubusercontent.com/105021265/174672117-00477362-7efc-4914-a7b6-d3fa58164c40.png">]
+ ![Edinburgh Research](/edinburgh_research.png)
 
 Subcategory Statistics: 
   This shows the results of the subcategories in our data set and shows whether it was successful or not.
-https://user-images.githubusercontent.com/105021265/174672172-8cecb234-ffa5-4ce7-bc46-6741ad0e4512.png">
+ ![Subcategory Statistics](/subcategory_statistics.png)
 
 What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 - The conclusion I drew was that we should create the company in december to be able to have everything up and running by january as the success margin goes up until may and we would like to maximise our profits and goals. 
