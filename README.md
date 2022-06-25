@@ -13,7 +13,7 @@ Outcomes Based on Launch Date:
 - This shows how we can filter the categories in this data set and the years they were made to see if the months impact the projects in any way. ![Outcomes Based on Launch Date](/Launch_date_outcome.png)
 
 Theater Outcomes by Launch Date: 
-- This allows us to see the data for theater and what month we should create a company.![Theater Outcomes by Launch Date](/Theater_outcomes_by_launch_date.png)
+- This allows us to see the data for theater and what month we should create a company.![Theater Outcomes by Launch Date](/Theater_outcomes_date.png)
 
 Outcomes Based on Goals: 
 - Using conditions that I have set I created various percentages that calculated whether certain conditions create higher successful results.![Outcomes Based on Goals](/outcomes_based_on_goals.png)
@@ -22,7 +22,7 @@ Edinburgh Research:
 - This shows how we can extract certain parts of our data using the edinburgh method on excel ![Edinburgh Research](/edinburgh_research.png)
 
 Subcategory Statistics: 
-- This shows the results of the subcategories in our data set and shows whether it was successful or not. ![Subcategory Statistics](/subcategory_statistics.png)
+- This shows the results of the subcategories in our data set and shows whether it was successful or not. ![Subcategory Statistics](/SubStat.png)
 
 What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 - The conclusion I drew was that we should create the company in december to be able to have everything up and running by january as the success margin goes up until may and we would like to maximise our profits and goals. 
