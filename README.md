@@ -10,7 +10,7 @@ Category statistics:
 - This was utilized to see the outcomes of the projects based on their success, failure, canceled, or live. We can also filter this data with the countries it worked in.![screenshots](/Category_statistics.png)
 
 Outcomes Based on Launch Date: 
-- This shows how we can filter the categories in this data set and the years they were made to see if the months impact the projects in any way. ![Outcomes Based on Launch Date](/Outcomes_based_on_launch_date.png)
+- This shows how we can filter the categories in this data set and the years they were made to see if the months impact the projects in any way. ![Outcomes Based on Launch Date](/Launch_date_outcome.png)
 
 Theater Outcomes by Launch Date: 
 - This allows us to see the data for theater and what month we should create a company.![Theater Outcomes by Launch Date](/Theater_outcomes_by_launch_date.png)
